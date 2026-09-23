@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Product,Category,Region,Salesperson,Quantity,Unit Price,Total Sales,Cost Price,Profit,Payment Mode,Order Status
+ORD0092,19/10/2025,Khushi,Laptop,Electronics,West,Arjun,10,55000,550000,45000,100000,Credit Card,Delivered
+ORD0172,13/01/2025,Rohan,Laptop,Electronics,West,Neha,10,55000,550000,45000,100000,UPI,Cancelled
+ORD0410,13/12/2025,Muskan,Laptop,Electronics,East,Karan,10,55000,550000,45000,100000,Credit Card,Delivered
+ORD0079,11/10/2025,Tanya,Laptop,Electronics,East,Amit,9,55000,495000,45000,90000,UPI,Delivered
+ORD0115,18/02/2025,Rahul,Laptop,Electronics,North,Amit,9,55000,495000,45000,90000,Cash,Delivered
+ORD0160,29/11/2025,Naina,Laptop,Electronics,South,Karan,7,55000,385000,45000,70000,UPI,Pending
+ORD0248,14/09/2025,Abhishek,Laptop,Electronics,East,Arjun,7,55000,385000,45000,70000,Cash,Delivered
+ORD0273,05/04/2025,Avni,Laptop,Electronics,South,Anjali,7,55000,385000,45000,70000,UPI,Delivered
+ORD0304,09/08/2025,Anjali,Laptop,Electronics,East,Priya,7,55000,385000,45000,70000,UPI,Pending
+ORD0442,07/06/2025,Anjali,Laptop,Electronics,South,Rohit,7,55000,385000,45000,70000,UPI,Delivered
+ORD0482,18/10/2025,Ayush,Laptop,Electronics,East,Arjun,7,55000,385000,45000,70000,UPI,Delivered
+ORD0390,25/10/2025,Dev,Bed,Furniture,North,Rohit,10,30000,300000,23000,70000,Cash,Delivered
+ORD0030,04/10/2025,Siddharth,Laptop,Electronics,West,Rahul,5,55000,275000,45000,50000,UPI,Pending
+ORD0281,31/03/2025,Krish,Bed,Furniture,West,Neha,9,30000,270000,23000,63000,UPI,Delivered
+ORD0150,13/12/2025,Riya,Bed,Furniture,South,Rahul,8,30000,240000,23000,56000,Credit Card,Delivered
+ORD0459,23/01/2025,Pooja,Bed,Furniture,East,Neha,8,30000,240000,23000,56000,Cash,Pending
+ORD0434,21/01/2025,Manav,Sofa,Furniture,South,Amit,9,25000,225000,19000,54000,Credit Card,Delivered
+ORD0300,01/11/2025,Anjali,Laptop,Electronics,West,Anjali,4,55000,220000,45000,40000,UPI,Delivered
+ORD0455,11/07/2025,Tanya,Laptop,Electronics,South,Rahul,4,55000,220000,45000,40000,Credit Card,Delivered
+ORD0202,20/09/2025,Aisha,Bed,Furniture,South,Priya,7,30000,210000,23000,49000,UPI,Delivered
+ORD0082,21/09/2025,Karan,Sofa,Furniture,West,Anjali,8,25000,200000,19000,48000,Credit Card,Delivered
+ORD0211,13/07/2025,Nikita,Sofa,Furniture,North,Amit,8,25000,200000,19000,48000,Cash,Pending
+ORD0095,01/04/2025,Anjali,Bed,Furniture,North,Neha,6,30000,180000,23000,42000,UPI,Pending
+ORD0216,11/01/2025,Vivaan,Bed,Furniture,South,Pooja,6,30000,180000,23000,42000,Cash,Delivered
+ORD0331,17/08/2025,Karan,Bed,Furniture,East,Anjali,6,30000,180000,23000,42000,Credit Card,Delivered
+ORD0420,26/03/2025,Aditi,Bed,Furniture,North,Rahul,6,30000,180000,23000,42000,Credit Card,Delivered
+ORD0422,20/01/2025,Ritika,Bed,Furniture,South,Pooja,6,30000,180000,23000,42000,Credit Card,Delivered
+ORD0108,25/06/2025,Reyansh,Laptop,Electronics,South,Amit,3,55000,165000,45000,30000,UPI,Delivered
+ORD0237,10/01/2025,Siddharth,Laptop,Electronics,South,Amit,3,55000,165000,45000,30000,Cash,Delivered
+ORD0374,09/01/2025,Shruti,Sofa,Furniture,South,Arjun,6,25000,150000,19000,36000,Credit Card,Delivered
+ORD0432,22/01/2025,Vihaan,Sofa,Furniture,West,Rohit,6,25000,150000,19000,36000,Cash,Delivered
+ORD0435,19/02/2025,Mohit,Bed,Furniture,West,Priya,5,30000,150000,23000,35000,Cash,Delivered
+ORD0469,05/04/2025,Khushi,Sofa,Furniture,North,Rahul,6,25000,150000,19000,36000,Cash,Delivered
+ORD0475,10/06/2025,Harsh,Sofa,Furniture,South,Rahul,6,25000,150000,19000,36000,Cash,Pending
+ORD0052,31/08/2025,Ananya,Sofa,Furniture,East,Karan,5,25000,125000,19000,30000,Cash,Pending
+ORD0497,02/03/2025,Saurabh,Sofa,Furniture,North,Rohit,5,25000,125000,19000,30000,UPI,Delivered
+ORD0024,20/07/2025,Isha,Office Desk,Furniture,West,Priya,10,12000,120000,9000,30000,UPI,Delivered
+ORD0067,21/06/2025,Kavya,Monitor,Electronics,West,Priya,10,12000,120000,9500,25000,UPI,Pending
+ORD0112,07/10/2025,Sneha,Bed,Furniture,North,Sneha,4,30000,120000,23000,28000,UPI,Delivered
+ORD0134,26/12/2025,Muskan,Bed,Furniture,South,Arjun,4,30000,120000,23000,28000,Cash,Delivered
+ORD0152,02/03/2025,Aarav,Monitor,Electronics,North,Arjun,10,12000,120000,9500,25000,Cash,Cancelled
+ORD0171,28/03/2025,Vihaan,Bed,Furniture,West,Rahul,4,30000,120000,23000,28000,Credit Card,Cancelled
+ORD0232,25/08/2025,Pooja,Office Desk,Furniture,East,Amit,10,12000,120000,9000,30000,Cash,Delivered
+ORD0369,02/06/2025,Ananya,Monitor,Electronics,North,Karan,10,12000,120000,9500,25000,Credit Card,Cancelled
+ORD0401,19/04/2025,Shruti,Monitor,Electronics,South,Neha,10,12000,120000,9500,25000,Cash,Delivered
+ORD0419,17/02/2025,Ananya,Office Desk,Furniture,East,Neha,10,12000,120000,9000,30000,UPI,Cancelled
+ORD0428,30/09/2025,Aarav,Monitor,Electronics,North,Neha,10,12000,120000,9500,25000,Cash,Delivered
+ORD0357,14/01/2025,Harsh,Laptop,Electronics,North,Sneha,2,55000,110000,45000,20000,Credit Card,Pending
+ORD0098,16/09/2025,Shruti,Monitor,Electronics,North,Rohit,9,12000,108000,9500,22500,Credit Card,Pending
+ORD0203,02/01/2025,Krish,Monitor,Electronics,West,Sneha,9,12000,108000,9500,22500,Credit Card,Delivered
+ORD0227,25/05/2025,Shreya,Monitor,Electronics,North,Amit,9,12000,108000,9500,22500,Credit Card,Delivered
+ORD0312,03/03/2025,Shreya,Monitor,Electronics,East,Sneha,9,12000,108000,9500,22500,Cash,Pending
+ORD0350,29/07/2025,Nikita,Monitor,Electronics,South,Sneha,9,12000,108000,9500,22500,Credit Card,Delivered
+ORD0426,25/05/2025,Riya,Office Desk,Furniture,North,Karan,9,12000,108000,9000,27000,Credit Card,Cancelled
+ORD0441,14/05/2025,Ayush,Office Desk,Furniture,North,Anjali,9,12000,108000,9000,27000,UPI,Delivered
+ORD0486,16/04/2025,Harsh,Monitor,Electronics,West,Rohit,9,12000,108000,9500,22500,Credit Card,Pending
+ORD0302,11/06/2025,Saurabh,Sofa,Furniture,North,Pooja,4,25000,100000,19000,24000,Cash,Delivered
+ORD0346,17/02/2025,Pranav,Sofa,Furniture,East,Rahul,4,25000,100000,19000,24000,Credit Card,Pending
+ORD0113,08/02/2025,Rohit,Monitor,Electronics,South,Neha,8,12000,96000,9500,20000,Cash,Pending
+ORD0393,13/07/2025,Siddharth,Monitor,Electronics,North,Pooja,8,12000,96000,9500,20000,Cash,Delivered
+ORD0008,14/02/2025,Ayush,Bed,Furniture,East,Rohit,3,30000,90000,23000,21000,UPI,Pending
+ORD0026,12/04/2025,Krish,Bed,Furniture,East,Arjun,3,30000,90000,23000,21000,UPI,Delivered
+ORD0081,27/06/2025,Priya,Bed,Furniture,North,Rahul,3,30000,90000,23000,21000,UPI,Cancelled
+ORD0117,13/04/2025,Ayush,Bed,Furniture,North,Anjali,3,30000,90000,23000,21000,UPI,Delivered
+ORD0498,17/04/2025,Krish,Printer,Electronics,South,Sneha,10,9000,90000,7000,20000,Credit Card,Delivered
+ORD0500,07/07/2025,Meera,Bed,Furniture,East,Rahul,3,30000,90000,23000,21000,Cash,Delivered
+ORD0071,10/12/2025,Aditya,Monitor,Electronics,East,Karan,7,12000,84000,9500,17500,Credit Card,Pending
+ORD0295,02/04/2025,Dev,Office Desk,Furniture,East,Pooja,7,12000,84000,9000,21000,Cash,Pending
+ORD0309,10/10/2025,Isha,Office Desk,Furniture,North,Karan,7,12000,84000,9000,21000,Credit Card,Pending
+ORD0418,30/01/2025,Ananya,Monitor,Electronics,North,Arjun,7,12000,84000,9500,17500,Cash,Delivered
+ORD0436,23/04/2025,Karan,Office Desk,Furniture,North,Rohit,7,12000,84000,9000,21000,Cash,Delivered
+ORD0040,18/12/2025,Anjali,Printer,Electronics,South,Neha,9,9000,81000,7000,18000,UPI,Pending
+ORD0291,10/03/2025,Ayush,Printer,Electronics,North,Anjali,9,9000,81000,7000,18000,Cash,Pending
+ORD0413,19/11/2025,Riya,Office chair,Furniture,South,Rahul,10,8000,80000,6000,20000,UPI,Delivered
+ORD0430,28/10/2025,Aman,Office chair,Furniture,South,Pooja,10,8000,80000,6000,20000,Cash,Delivered
+ORD0444,14/06/2025,Akash,Office chair,Furniture,East,Anjali,10,8000,80000,6000,20000,Cash,Delivered
+ORD0474,14/09/2025,Tanya,Office chair,Furniture,North,Sneha,10,8000,80000,6000,20000,Cash,Delivered
+ORD0128,04/10/2025,Ananya,Sofa,Furniture,West,Anjali,3,25000,75000,19000,18000,UPI,Cancelled
+ORD0277,01/03/2025,Naina,Sofa,Furniture,South,Karan,3,25000,75000,19000,18000,UPI,Delivered
+ORD0305,01/04/2025,Pranav,Sofa,Furniture,East,Arjun,3,25000,75000,19000,18000,Credit Card,Pending
+ORD0311,09/10/2025,Kavya,Sofa,Furniture,North,Priya,3,25000,75000,19000,18000,Credit Card,Delivered
+ORD0330,09/04/2025,Nikita,Sofa,Furniture,West,Pooja,3,25000,75000,19000,18000,Credit Card,Cancelled
+ORD0360,13/09/2025,Diya,Sofa,Furniture,West,Priya,3,25000,75000,19000,18000,Cash,Cancelled
+ORD0493,14/11/2025,Ananya,Sofa,Furniture,East,Rahul,3,25000,75000,19000,18000,UPI,Pending
+ORD0061,24/08/2025,Avni,Office chair,Furniture,North,Sneha,9,8000,72000,6000,18000,Cash,Cancelled
+ORD0078,15/02/2025,Siddharth,Office Desk,Furniture,West,Rahul,6,12000,72000,9000,18000,UPI,Delivered
+ORD0138,05/04/2025,Ritika,Office chair,Furniture,East,Anjali,9,8000,72000,6000,18000,UPI,Delivered
+ORD0144,23/01/2025,Anjali,Printer,Electronics,East,Priya,8,9000,72000,7000,16000,UPI,Pending
+ORD0165,07/09/2025,Akash,Office chair,Furniture,West,Arjun,9,8000,72000,6000,18000,Credit Card,Pending
+ORD0209,14/11/2025,Aarav,Printer,Electronics,West,Priya,8,9000,72000,7000,16000,Credit Card,Pending
+ORD0226,27/09/2025,Shruti,Office chair,Furniture,North,Karan,9,8000,72000,6000,18000,Credit Card,Pending
+ORD0348,23/03/2025,Priya,Office chair,Furniture,West,Karan,9,8000,72000,6000,18000,Credit Card,Delivered
+ORD0365,23/10/2025,Dev,Printer,Electronics,South,Rohit,8,9000,72000,7000,16000,Credit Card,Pending
+ORD0373,04/12/2025,Pooja,Printer,Electronics,South,Pooja,8,9000,72000,7000,16000,Credit Card,Delivered
+ORD0488,22/07/2025,Siddharth,Office chair,Furniture,North,Arjun,9,8000,72000,6000,18000,Credit Card,Delivered
+ORD0404,16/10/2025,Shreya,Book Shelf,Furniture,South,Sneha,10,7000,70000,5200,18000,Cash,Delivered
+ORD0415,07/07/2025,Aditya,Office chair,Furniture,West,Karan,8,8000,64000,6000,16000,Credit Card,Delivered
+ORD0181,26/12/2025,Isha,Book Shelf,Furniture,East,Priya,9,7000,63000,5200,16200,Cash,Cancelled
+ORD0193,10/04/2025,Avni,Printer,Electronics,South,Neha,7,9000,63000,7000,14000,Cash,Cancelled
+ORD0270,09/09/2025,Yash,Book Shelf,Furniture,East,Neha,9,7000,63000,5200,16200,UPI,Pending
+ORD0315,01/01/2025,Nikhil,Book Shelf,Furniture,North,Neha,9,7000,63000,5200,16200,UPI,Delivered
+ORD0080,05/08/2025,Rohan,Bed,Furniture,West,Amit,2,30000,60000,23000,14000,Credit Card,Cancelled
+ORD0084,02/05/2025,Neha,Bed,Furniture,South,Anjali,2,30000,60000,23000,14000,Cash,Delivered
+ORD0089,16/01/2025,Isha,Monitor,Electronics,East,Pooja,5,12000,60000,9500,12500,Cash,Delivered
+ORD0205,10/02/2025,Arjun,Bed,Furniture,West,Rahul,2,30000,60000,23000,14000,UPI,Delivered
+ORD0325,13/08/2025,Aarav,Monitor,Electronics,West,Rohit,5,12000,60000,9500,12500,Cash,Pending
+ORD0342,01/10/2025,Yash,Monitor,Electronics,South,Arjun,5,12000,60000,9500,12500,Cash,Cancelled
+ORD0359,13/06/2025,Neha,Monitor,Electronics,West,Rahul,5,12000,60000,9500,12500,UPI,Delivered
+ORD0013,05/10/2025,Saurabh,Office chair,Furniture,East,Anjali,7,8000,56000,6000,14000,Cash,Delivered
+ORD0068,15/02/2025,Palak,Office chair,Furniture,North,Anjali,7,8000,56000,6000,14000,Cash,Cancelled
+ORD0219,02/09/2025,Anjali,Book Shelf,Furniture,North,Anjali,8,7000,56000,5200,14400,Cash,Delivered
+ORD0353,02/05/2025,Palak,Book Shelf,Furniture,West,Priya,8,7000,56000,5200,14400,Credit Card,Delivered
+ORD0116,24/02/2025,Avni,Laptop,Electronics,West,Rohit,1,55000,55000,45000,10000,Credit Card,Delivered
+ORD0157,14/02/2025,Aman,Laptop,Electronics,South,Neha,1,55000,55000,45000,10000,Credit Card,Delivered
+ORD0156,06/11/2025,Manav,Sofa,Furniture,South,Karan,2,25000,50000,19000,12000,UPI,Delivered
+ORD0317,20/12/2025,Krish,Sofa,Furniture,North,Karan,2,25000,50000,19000,12000,Credit Card,Delivered
+ORD0223,24/04/2025,Isha,Book Shelf,Furniture,South,Anjali,7,7000,49000,5200,12600,Credit Card,Pending
+ORD0417,15/01/2025,Ayush,Book Shelf,Furniture,West,Rahul,7,7000,49000,5200,12600,Credit Card,Delivered
+ORD0093,07/03/2025,Aditya,Monitor,Electronics,West,Karan,4,12000,48000,9500,10000,Credit Card,Delivered
+ORD0110,26/12/2025,Aryan,Office chair,Furniture,South,Amit,6,8000,48000,6000,12000,Credit Card,Pending
+ORD0126,28/05/2025,Anjali,Monitor,Electronics,South,Rohit,4,12000,48000,9500,10000,UPI,Delivered
+ORD0139,07/03/2025,Ananya,Monitor,Electronics,South,Rahul,4,12000,48000,9500,10000,Cash,Delivered
+ORD0140,13/03/2025,Neha,Monitor,Electronics,West,Amit,4,12000,48000,9500,10000,Cash,Delivered
+ORD0142,30/09/2025,Simran,Monitor,Electronics,South,Pooja,4,12000,48000,9500,10000,UPI,Delivered
+ORD0256,07/09/2025,Simran,Office Desk,Furniture,North,Sneha,4,12000,48000,9000,12000,Cash,Cancelled
+ORD0261,31/07/2025,Dev,Office Desk,Furniture,South,Neha,4,12000,48000,9000,12000,UPI,Delivered
+ORD0266,08/06/2025,Reyansh,Office Desk,Furniture,South,Rahul,4,12000,48000,9000,12000,Cash,Delivered
+ORD0268,01/01/2025,Rohan,Office chair,Furniture,East,Rohit,6,8000,48000,6000,12000,UPI,Delivered
+ORD0284,14/12/2025,Nikhil,Office Desk,Furniture,West,Rahul,4,12000,48000,9000,12000,Credit Card,Pending
+ORD0287,01/07/2025,Priya,Monitor,Electronics,East,Sneha,4,12000,48000,9500,10000,UPI,Pending
+ORD0345,02/04/2025,Aditya,Monitor,Electronics,East,Priya,4,12000,48000,9500,10000,Cash,Pending
+ORD0396,30/08/2025,Aman,Office chair,Furniture,North,Karan,6,8000,48000,6000,12000,Cash,Delivered
+ORD0405,22/07/2025,Ritika,Monitor,Electronics,West,Pooja,4,12000,48000,9500,10000,Cash,Pending
+ORD0070,12/03/2025,Diya,Printer,Electronics,East,Pooja,5,9000,45000,7000,10000,Cash,Delivered
+ORD0147,27/05/2025,Neha,Printer,Electronics,North,Karan,5,9000,45000,7000,10000,Cash,Delivered
+ORD0204,10/09/2025,Palak,Printer,Electronics,North,Karan,5,9000,45000,7000,10000,UPI,Pending
+ORD0467,23/04/2025,Arjun,Printer,Electronics,East,Karan,5,9000,45000,7000,10000,UPI,Delivered
+ORD0489,20/01/2025,Pranav,Printer,Electronics,East,Pooja,5,9000,45000,7000,10000,Credit Card,Delivered
+ORD0398,09/03/2025,Rohit,Book Shelf,Furniture,West,Neha,6,7000,42000,5200,10800,Cash,Cancelled
+ORD0039,30/04/2025,Palak,Printer,Electronics,East,Rahul,4,9000,36000,7000,8000,Credit Card,Delivered
+ORD0073,10/02/2025,Neha,Office Desk,Furniture,South,Arjun,3,12000,36000,9000,9000,UPI,Delivered
+ORD0100,28/03/2025,Pooja,Monitor,Electronics,North,Rahul,3,12000,36000,9500,7500,Credit Card,Pending
+ORD0159,31/08/2025,Pooja,Monitor,Electronics,East,Sneha,3,12000,36000,9500,7500,UPI,Delivered
+ORD0240,17/06/2025,Avni,Printer,Electronics,East,Anjali,4,9000,36000,7000,8000,Cash,Delivered
+ORD0242,06/09/2025,Khushi,Office Desk,Furniture,East,Rahul,3,12000,36000,9000,9000,Credit Card,Delivered
+ORD0391,03/09/2025,Aisha,Office Desk,Furniture,North,Pooja,3,12000,36000,9000,9000,Credit Card,Delivered
+ORD0429,27/04/2025,Mohit,Office Desk,Furniture,South,Amit,3,12000,36000,9000,9000,Credit Card,Pending
+ORD0468,14/07/2025,Sanjana,Office Desk,Furniture,West,Arjun,3,12000,36000,9000,9000,Cash,Cancelled
+ORD0207,01/02/2025,Siddharth,Jacket,Clothing,South,Neha,10,3500,35000,2400,11000,Cash,Delivered
+ORD0372,01/07/2025,Palak,Book Shelf,Furniture,North,Anjali,5,7000,35000,5200,9000,Cash,Delivered
+ORD0385,10/12/2025,Ritika,Book Shelf,Furniture,East,Sneha,5,7000,35000,5200,9000,Cash,Delivered
+ORD0421,14/01/2025,Siddharth,Book Shelf,Furniture,East,Arjun,5,7000,35000,5200,9000,Credit Card,Delivered
+ORD0487,21/06/2025,Abhishek,Jacket,Clothing,North,Pooja,10,3500,35000,2400,11000,UPI,Pending
+ORD0136,08/04/2025,Reyansh,Office chair,Furniture,South,Rahul,4,8000,32000,6000,8000,UPI,Delivered
+ORD0184,18/12/2025,Abhishek,Office chair,Furniture,East,Arjun,4,8000,32000,6000,8000,UPI,Delivered
+ORD0199,11/08/2025,Diya,Office chair,Furniture,South,Neha,4,8000,32000,6000,8000,UPI,Delivered
+ORD0320,02/11/2025,Palak,Office chair,Furniture,East,Sneha,4,8000,32000,6000,8000,UPI,Delivered
+ORD0063,08/10/2025,Yash,Jacket,Clothing,North,Priya,9,3500,31500,2400,9900,Cash,Delivered
+ORD0306,31/12/2025,Krish,Jacket,Clothing,East,Pooja,9,3500,31500,2400,9900,UPI,Pending
+ORD0358,06/04/2025,Ritika,Jacket,Clothing,South,Rohit,9,3500,31500,2400,9900,Cash,Delivered
+ORD0222,31/05/2025,Vihaan,Bed,Furniture,West,Sneha,1,30000,30000,23000,7000,Cash,Pending
+ORD0262,13/05/2025,Aditya,Bed,Furniture,South,Priya,1,30000,30000,23000,7000,Credit Card,Delivered
+ORD0465,29/01/2025,Dev,Bed,Furniture,West,Pooja,1,30000,30000,23000,7000,Cash,Cancelled
+ORD0107,18/09/2025,Nikhil,Shoes,Clothing,East,Priya,10,2800,28000,1800,10000,Credit Card,Cancelled
+ORD0246,15/02/2025,Avni,Jacket,Clothing,East,Anjali,8,3500,28000,2400,8800,Cash,Delivered
+ORD0443,09/08/2025,Siddharth,Book Shelf,Furniture,East,Rahul,4,7000,28000,5200,7200,Credit Card,Delivered
+ORD0491,05/06/2025,Vihaan,Jacket,Clothing,West,Pooja,8,3500,28000,2400,8800,UPI,Delivered
+ORD0038,24/04/2025,Kavya,Shoes,Clothing,West,Rahul,9,2800,25200,1800,9000,Credit Card,Cancelled
+ORD0370,21/07/2025,Diya,Sofa,Furniture,East,Anjali,1,25000,25000,19000,6000,Credit Card,Delivered
+ORD0382,30/07/2025,Aditya,Sofa,Furniture,West,Rohit,1,25000,25000,19000,6000,Credit Card,Delivered
+ORD0148,18/10/2025,Aditi,Jacket,Clothing,West,Amit,7,3500,24500,2400,7700,Credit Card,Delivered
+ORD0402,17/09/2025,Diya,Jacket,Clothing,West,Amit,7,3500,24500,2400,7700,Cash,Pending
+ORD0007,28/09/2025,Neha,Office chair,Furniture,East,Arjun,3,8000,24000,6000,6000,Credit Card,Delivered
+ORD0027,01/10/2025,Manav,Office Desk,Furniture,South,Karan,2,12000,24000,9000,6000,Cash,Pending
+ORD0285,11/02/2025,Nikhil,Office Desk,Furniture,South,Amit,2,12000,24000,9000,6000,Cash,Delivered
+ORD0377,22/04/2025,Khushi,Shoes,Clothing,West,Karan,8,2800,22400,1800,8000,Credit Card,Delivered
+ORD0395,25/10/2025,Aditi,Shoes,Clothing,West,Priya,8,2800,22400,1800,8000,Credit Card,Pending
+ORD0062,10/08/2025,Vihaan,Hoodie,Clothing,West,Amit,10,2200,22000,1400,8000,Credit Card,Cancelled
+ORD0120,23/09/2025,Manav,Hoodie,Clothing,East,Rahul,10,2200,22000,1400,8000,Cash,Delivered
+ORD0175,27/04/2025,Mohit,Hoodie,Clothing,North,Rahul,10,2200,22000,1400,8000,UPI,Delivered
+ORD0254,20/10/2025,Aditya,Hoodie,Clothing,West,Neha,10,2200,22000,1400,8000,Credit Card,Delivered
+ORD0499,28/07/2025,Rahul,Hoodie,Clothing,North,Amit,10,2200,22000,1400,8000,Cash,Delivered
+ORD0086,16/08/2025,Naina,Jacket,Clothing,South,Pooja,6,3500,21000,2400,6600,Cash,Pending
+ORD0094,18/07/2025,Ananya,Jacket,Clothing,East,Pooja,6,3500,21000,2400,6600,UPI,Pending
+ORD0269,15/12/2025,Siddharth,Jacket,Clothing,East,Priya,6,3500,21000,2400,6600,Credit Card,Cancelled
+ORD0321,01/12/2025,Rohit,Book Shelf,Furniture,East,Rohit,3,7000,21000,5200,5400,Credit Card,Pending
+ORD0334,21/04/2025,Manav,Jacket,Clothing,East,Rahul,6,3500,21000,2400,6600,Cash,Delivered
+ORD0367,05/10/2025,Priya,Jacket,Clothing,South,Sneha,6,3500,21000,2400,6600,Credit Card,Delivered
+ORD0253,31/03/2025,Pranav,Hoodie,Clothing,West,Arjun,9,2200,19800,1400,7200,Credit Card,Delivered
+ORD0394,19/01/2025,Mohit,Hoodie,Clothing,East,Pooja,9,2200,19800,1400,7200,UPI,Delivered
+ORD0217,13/01/2025,Naina,Shoes,Clothing,East,Rahul,7,2800,19600,1800,7000,UPI,Delivered
+ORD0244,13/03/2025,Akash,Shoes,Clothing,West,Arjun,7,2800,19600,1800,7000,Credit Card,Delivered
+ORD0409,03/10/2025,Manav,Shoes,Clothing,East,Karan,7,2800,19600,1800,7000,Credit Card,Delivered
+ORD0002,01/02/2025,Pooja,Printer,Electronics,East,Karan,2,9000,18000,7000,4000,UPI,Delivered
+ORD0025,04/08/2025,Khushi,Jeans,Clothing,East,Pooja,10,1800,18000,1100,7000,UPI,Cancelled
+ORD0077,24/08/2025,Arjun,Printer,Electronics,West,Karan,2,9000,18000,7000,4000,Cash,Delivered
+ORD0097,21/08/2025,Tanya,Printer,Electronics,West,Rohit,2,9000,18000,7000,4000,Cash,Delivered
+ORD0168,28/09/2025,Khushi,Cooking Oil,Grocery,West,Anjali,10,1800,18000,1400,4000,UPI,Delivered
+ORD0190,01/08/2025,Aditi,Cooking Oil,Grocery,South,Amit,10,1800,18000,1400,4000,Cash,Cancelled
+ORD0264,04/04/2025,Pooja,Printer,Electronics,East,Sneha,2,9000,18000,7000,4000,UPI,Delivered
+ORD0341,18/11/2025,Palak,Printer,Electronics,North,Anjali,2,9000,18000,7000,4000,Cash,Delivered
+ORD0347,23/11/2025,Anjali,Cooking Oil,Grocery,East,Anjali,10,1800,18000,1400,4000,Cash,Delivered
+ORD0440,16/05/2025,Ananya,Cooking Oil,Grocery,East,Rahul,10,1800,18000,1400,4000,Cash,Delivered
+ORD0091,05/10/2025,Aisha,Hoodie,Clothing,North,Rahul,8,2200,17600,1400,6400,UPI,Delivered
+ORD0433,09/06/2025,Avni,Hoodie,Clothing,North,Karan,8,2200,17600,1400,6400,Credit Card,Delivered
+ORD0049,09/12/2025,Muskan,Jacket,Clothing,South,Karan,5,3500,17500,2400,5500,UPI,Pending
+ORD0255,24/12/2025,Shreya,Jacket,Clothing,West,Karan,5,3500,17500,2400,5500,UPI,Cancelled
+ORD0042,23/04/2025,Anjali,Cooking Oil,Grocery,West,Anjali,9,1800,16200,1400,3600,Cash,Delivered
+ORD0054,09/05/2025,Abhishek,Office chair,Furniture,East,Priya,2,8000,16000,6000,4000,Credit Card,Delivered
+ORD0066,29/09/2025,Diya,Office chair,Furniture,North,Anjali,2,8000,16000,6000,4000,Credit Card,Delivered
+ORD0438,26/05/2025,Rahul,Office chair,Furniture,North,Rahul,2,8000,16000,6000,4000,Cash,Delivered
+ORD0461,20/09/2025,Shreya,Office chair,Furniture,North,Amit,2,8000,16000,6000,4000,Credit Card,Pending
+ORD0154,13/09/2025,Meera,Hoodie,Clothing,East,Karan,7,2200,15400,1400,5600,Credit Card,Pending
+ORD0247,10/11/2025,Abhishek,Hoodie,Clothing,North,Sneha,7,2200,15400,1400,5600,Credit Card,Pending
+ORD0275,09/10/2025,Rohit,Hoodie,Clothing,East,Arjun,7,2200,15400,1400,5600,UPI,Pending
+ORD0335,08/05/2025,Dev,Hoodie,Clothing,West,Amit,7,2200,15400,1400,5600,Cash,Delivered
+ORD0018,06/12/2025,Ananya,Keyboard,Electronics,North,Priya,10,1500,15000,1000,5000,UPI,Delivered
+ORD0476,01/03/2025,Neha,Keyboard,Electronics,East,Rohit,10,1500,15000,1000,5000,Credit Card,Delivered
+ORD0051,24/04/2025,Aryan,Cooking Oil,Grocery,North,Arjun,8,1800,14400,1400,3200,Cash,Pending
+ORD0218,18/05/2025,Shreya,Jeans,Clothing,East,Priya,8,1800,14400,1100,5600,UPI,Delivered
+ORD0251,26/05/2025,Ayush,Cooking Oil,Grocery,East,Neha,8,1800,14400,1400,3200,Cash,Delivered
+ORD0392,08/02/2025,Shreya,Jeans,Clothing,South,Rohit,8,1800,14400,1100,5600,Cash,Delivered
+ORD0399,04/06/2025,Mohit,Cooking Oil,Grocery,South,Anjali,8,1800,14400,1400,3200,Credit Card,Delivered
+ORD0406,28/02/2025,Vihaan,Cooking Oil,Grocery,North,Rahul,8,1800,14400,1400,3200,Cash,Delivered
+ORD0431,24/09/2025,Diya,Jeans,Clothing,North,Neha,8,1800,14400,1100,5600,UPI,Pending
+ORD0048,25/06/2025,Arjun,Shoes,Clothing,West,Neha,5,2800,14000,1800,5000,Cash,Delivered
+ORD0135,06/03/2025,Khushi,Jacket,Clothing,South,Rohit,4,3500,14000,2400,4400,Cash,Delivered
+ORD0177,28/11/2025,Shreya,Shoes,Clothing,North,Karan,5,2800,14000,1800,5000,Cash,Delivered
+ORD0233,16/02/2025,Ananya,Shoes,Clothing,South,Rahul,5,2800,14000,1800,5000,UPI,Delivered
+ORD0416,17/04/2025,Sanjana,Jacket,Clothing,West,Karan,4,3500,14000,2400,4400,UPI,Delivered
+ORD0470,30/05/2025,Palak,Book Shelf,Furniture,West,Rohit,2,7000,14000,5200,3600,UPI,Delivered
+ORD0146,12/09/2025,Pooja,Keyboard,Electronics,West,Priya,9,1500,13500,1000,4500,Cash,Delivered
+ORD0151,01/12/2025,Mohit,Keyboard,Electronics,North,Neha,9,1500,13500,1000,4500,Cash,Delivered
+ORD0290,05/09/2025,Aditya,Keyboard,Electronics,South,Rohit,9,1500,13500,1000,4500,UPI,Pending
+ORD0371,13/10/2025,Aisha,Keyboard,Electronics,North,Sneha,9,1500,13500,1000,4500,UPI,Delivered
+ORD0386,07/07/2025,Priya,Keyboard,Electronics,West,Karan,9,1500,13500,1000,4500,UPI,Pending
+ORD0471,08/09/2025,Isha,Keyboard,Electronics,North,Amit,9,1500,13500,1000,4500,UPI,Pending
+ORD0041,31/08/2025,Aman,Hoodie,Clothing,East,Neha,6,2200,13200,1400,4800,UPI,Delivered
+ORD0074,13/03/2025,Nikhil,Hoodie,Clothing,East,Karan,6,2200,13200,1400,4800,Cash,Pending
+ORD0339,21/12/2025,Aman,Hoodie,Clothing,West,Sneha,6,2200,13200,1400,4800,UPI,Delivered
+ORD0425,25/04/2025,Sneha,Hoodie,Clothing,South,Rohit,6,2200,13200,1400,4800,Cash,Delivered
+ORD0014,28/10/2025,Dev,Jeans,Clothing,West,Karan,7,1800,12600,1100,4900,UPI,Delivered
+ORD0015,09/03/2025,Sneha,Jeans,Clothing,South,Neha,7,1800,12600,1100,4900,Credit Card,Delivered
+ORD0083,20/04/2025,Neha,Cooking Oil,Grocery,East,Sneha,7,1800,12600,1400,2800,Cash,Delivered
+ORD0179,28/12/2025,Aditya,Jeans,Clothing,North,Anjali,7,1800,12600,1100,4900,UPI,Pending
+ORD0387,26/01/2025,Saurabh,Cooking Oil,Grocery,South,Priya,7,1800,12600,1400,2800,Credit Card,Delivered
+ORD0021,25/09/2025,Vihaan,Monitor,Electronics,North,Anjali,1,12000,12000,9500,2500,UPI,Cancelled
+ORD0055,23/12/2025,Muskan,Rice Bag,Grocery,South,Rohit,10,1200,12000,900,3000,UPI,Delivered
+ORD0141,20/11/2025,Harsh,Keyboard,Electronics,South,Sneha,8,1500,12000,1000,4000,UPI,Pending
+ORD0213,12/11/2025,Muskan,Keyboard,Electronics,South,Neha,8,1500,12000,1000,4000,Credit Card,Delivered
+ORD0239,31/12/2025,Yash,Keyboard,Electronics,East,Rohit,8,1500,12000,1000,4000,Cash,Delivered
+ORD0271,21/03/2025,Akash,Monitor,Electronics,North,Sneha,1,12000,12000,9500,2500,UPI,Pending
+ORD0303,11/10/2025,Ayush,Office Desk,Furniture,South,Sneha,1,12000,12000,9000,3000,Cash,Pending
+ORD0445,15/05/2025,Pranav,Rice Bag,Grocery,West,Karan,10,1200,12000,900,3000,UPI,Delivered
+ORD0466,20/10/2025,Nikita,Office Desk,Furniture,North,Sneha,1,12000,12000,9000,3000,Credit Card,Delivered
+ORD0111,12/09/2025,Harsh,Shoes,Clothing,South,Neha,4,2800,11200,1800,4000,Cash,Pending
+ORD0119,23/09/2025,Harsh,Shoes,Clothing,South,Arjun,4,2800,11200,1800,4000,UPI,Pending
+ORD0225,20/04/2025,Rahul,Shoes,Clothing,West,Priya,4,2800,11200,1800,4000,Cash,Delivered
+ORD0301,28/11/2025,Siddharth,Shoes,Clothing,South,Pooja,4,2800,11200,1800,4000,Credit Card,Delivered
+ORD0031,27/02/2025,Rohan,Hoodie,Clothing,East,Arjun,5,2200,11000,1400,4000,UPI,Delivered
+ORD0065,22/03/2025,Anjali,Hoodie,Clothing,West,Neha,5,2200,11000,1400,4000,Cash,Delivered
+ORD0477,14/07/2025,Riya,Hoodie,Clothing,East,Arjun,5,2200,11000,1400,4000,Credit Card,Pending
+ORD0022,10/06/2025,Priya,Jeans,Clothing,North,Amit,6,1800,10800,1100,4200,Credit Card,Pending
+ORD0046,28/01/2025,Dev,Rice Bag,Grocery,East,Arjun,9,1200,10800,900,2700,Cash,Pending
+ORD0053,22/05/2025,Reyansh,Cooking Oil,Grocery,East,Karan,6,1800,10800,1400,2400,Credit Card,Delivered
+ORD0307,30/12/2025,Meera,Rice Bag,Grocery,South,Pooja,9,1200,10800,900,2700,UPI,Cancelled
+ORD0343,17/04/2025,Isha,Cooking Oil,Grocery,East,Sneha,6,1800,10800,1400,2400,Cash,Delivered
+ORD0351,31/10/2025,Aditi,Rice Bag,Grocery,East,Priya,9,1200,10800,900,2700,UPI,Delivered
+ORD0446,08/12/2025,Meera,Rice Bag,Grocery,North,Pooja,9,1200,10800,900,2700,UPI,Delivered
+ORD0457,03/02/2025,Rahul,Jeans,Clothing,West,Neha,6,1800,10800,1100,4200,UPI,Delivered
+ORD0174,10/06/2025,Avni,Keyboard,Electronics,South,Sneha,7,1500,10500,1000,3500,Cash,Delivered
+ORD0200,01/04/2025,Ayush,Jacket,Clothing,South,Arjun,3,3500,10500,2400,3300,UPI,Cancelled
+ORD0289,17/03/2025,Ananya,Jacket,Clothing,East,Pooja,3,3500,10500,2400,3300,Credit Card,Delivered
+ORD0375,22/07/2025,Tanya,Keyboard,Electronics,East,Rohit,7,1500,10500,1000,3500,Credit Card,Delivered
+ORD0145,06/09/2025,Harsh,Rice Bag,Grocery,North,Sneha,8,1200,9600,900,2400,Cash,Pending
+ORD0384,16/07/2025,Riya,Rice Bag,Grocery,South,Amit,8,1200,9600,900,2400,Credit Card,Delivered
+ORD0028,16/08/2025,Mohit,Printer,Electronics,South,Sneha,1,9000,9000,7000,2000,UPI,Cancelled
+ORD0058,23/11/2025,Neha,Cooking Oil,Grocery,West,Rahul,5,1800,9000,1400,2000,Cash,Delivered
+ORD0087,02/09/2025,Saurabh,Printer,Electronics,North,Amit,1,9000,9000,7000,2000,Cash,Delivered
+ORD0101,23/03/2025,Neha,Cooking Oil,Grocery,South,Sneha,5,1800,9000,1400,2000,Credit Card,Delivered
+ORD0109,17/10/2025,Reyansh,Jeans,Clothing,North,Karan,5,1800,9000,1100,3500,Cash,Delivered
+ORD0124,01/02/2025,Karan,Jeans,Clothing,West,Priya,5,1800,9000,1100,3500,Cash,Cancelled
+ORD0149,13/09/2025,Dev,Printer,Electronics,South,Rahul,1,9000,9000,7000,2000,UPI,Pending
+ORD0229,21/05/2025,Akash,Jeans,Clothing,East,Karan,5,1800,9000,1100,3500,UPI,Cancelled
+ORD0327,14/04/2025,Neha,Cooking Oil,Grocery,South,Arjun,5,1800,9000,1400,2000,Cash,Pending
+ORD0329,28/12/2025,Meera,Printer,Electronics,South,Priya,1,9000,9000,7000,2000,Cash,Delivered
+ORD0352,19/01/2025,Rohit,Jeans,Clothing,South,Priya,5,1800,9000,1100,3500,UPI,Delivered
+ORD0362,20/08/2025,Rohit,Keyboard,Electronics,North,Anjali,6,1500,9000,1000,3000,UPI,Delivered
+ORD0363,04/08/2025,Ananya,Cooking Oil,Grocery,North,Arjun,5,1800,9000,1400,2000,Cash,Delivered
+ORD0414,17/01/2025,Kavya,Jeans,Clothing,South,Neha,5,1800,9000,1100,3500,UPI,Delivered
+ORD0462,13/07/2025,Harsh,Printer,Electronics,East,Sneha,1,9000,9000,7000,2000,Cash,Pending
+ORD0464,11/06/2025,Nikita,Printer,Electronics,North,Karan,1,9000,9000,7000,2000,Cash,Pending
+ORD0492,13/12/2025,Kavya,Jeans,Clothing,North,Rohit,5,1800,9000,1100,3500,UPI,Delivered
+ORD0056,22/10/2025,Mohit,Hoodie,Clothing,South,Anjali,4,2200,8800,1400,3200,Cash,Delivered
+ORD0169,29/10/2025,Harsh,Hoodie,Clothing,North,Priya,4,2200,8800,1400,3200,Cash,Delivered
+ORD0173,19/12/2025,Neha,Hoodie,Clothing,South,Sneha,4,2200,8800,1400,3200,Cash,Delivered
+ORD0088,05/06/2025,Ritika,Rice Bag,Grocery,West,Anjali,7,1200,8400,900,2100,UPI,Pending
+ORD0114,20/08/2025,Sanjana,Rice Bag,Grocery,West,Anjali,7,1200,8400,900,2100,Cash,Delivered
+ORD0214,19/11/2025,Neha,Rice Bag,Grocery,West,Pooja,7,1200,8400,900,2100,Credit Card,Delivered
+ORD0274,01/08/2025,Sanjana,Rice Bag,Grocery,West,Rahul,7,1200,8400,900,2100,Cash,Delivered
+ORD0378,19/12/2025,Avni,Rice Bag,Grocery,West,Sneha,7,1200,8400,900,2100,Credit Card,Pending
+ORD0448,13/01/2025,Pranav,Shoes,Clothing,North,Priya,3,2800,8400,1800,3000,UPI,Delivered
+ORD0328,30/05/2025,Khushi,T-Shirt,Clothing,West,Amit,9,900,8100,500,3600,Cash,Cancelled
+ORD0017,11/10/2025,Simran,Wheat Flour,Grocery,West,Pooja,10,800,8000,600,2000,UPI,Delivered
+ORD0033,18/11/2025,Aisha,Wheat Flour,Grocery,West,Anjali,10,800,8000,600,2000,Cash,Delivered
+ORD0099,02/11/2025,Aarav,Office chair,Furniture,North,Karan,1,8000,8000,6000,2000,Credit Card,Delivered
+ORD0103,06/10/2025,Aarav,Wheat Flour,Grocery,West,Priya,10,800,8000,600,2000,Credit Card,Delivered
+ORD0272,19/09/2025,Shruti,Wheat Flour,Grocery,West,Rahul,10,800,8000,600,2000,Cash,Cancelled
+ORD0349,05/05/2025,Neha,Wheat Flour,Grocery,East,Priya,10,800,8000,600,2000,UPI,Pending
+ORD0364,19/05/2025,Naina,Office chair,Furniture,North,Karan,1,8000,8000,6000,2000,Cash,Cancelled
+ORD0481,06/04/2025,Naina,Office chair,Furniture,East,Karan,1,8000,8000,6000,2000,UPI,Delivered
+ORD0035,10/09/2025,Siddharth,Keyboard,Electronics,East,Karan,5,1500,7500,1000,2500,UPI,Delivered
+ORD0104,09/01/2025,Rohan,Keyboard,Electronics,East,Priya,5,1500,7500,1000,2500,Cash,Pending
+ORD0196,27/02/2025,Neha,Keyboard,Electronics,East,Rahul,5,1500,7500,1000,2500,Credit Card,Delivered
+ORD0249,13/11/2025,Mohit,Keyboard,Electronics,East,Priya,5,1500,7500,1000,2500,Credit Card,Cancelled
+ORD0265,24/10/2025,Vivaan,Keyboard,Electronics,East,Anjali,5,1500,7500,1000,2500,Credit Card,Pending
+ORD0490,25/08/2025,Tanya,Keyboard,Electronics,East,Amit,5,1500,7500,1000,2500,Credit Card,Pending
+ORD0012,22/10/2025,Saurabh,Rice Bag,Grocery,West,Pooja,6,1200,7200,900,1800,Credit Card,Delivered
+ORD0180,14/05/2025,Anjali,Cooking Oil,Grocery,South,Pooja,4,1800,7200,1400,1600,Cash,Delivered
+ORD0230,25/04/2025,Ananya,T-Shirt,Clothing,East,Karan,8,900,7200,500,3200,Cash,Pending
+ORD0318,17/04/2025,Karan,Jeans,Clothing,North,Arjun,4,1800,7200,1100,2800,Cash,Pending
+ORD0344,23/11/2025,Ritika,Rice Bag,Grocery,East,Karan,6,1200,7200,900,1800,Credit Card,Delivered
+ORD0050,22/11/2025,Vivaan,Mouse,Electronics,South,Karan,10,700,7000,450,2500,Cash,Pending
+ORD0123,04/01/2025,Riya,Mouse,Electronics,North,Rohit,10,700,7000,450,2500,Cash,Pending
+ORD0137,09/09/2025,Pranav,Book Shelf,Furniture,South,Sneha,1,7000,7000,5200,1800,Cash,Cancelled
+ORD0178,08/03/2025,Dev,Book Shelf,Furniture,West,Sneha,1,7000,7000,5200,1800,UPI,Delivered
+ORD0283,19/03/2025,Neha,Mouse,Electronics,North,Sneha,10,700,7000,450,2500,UPI,Delivered
+ORD0322,15/04/2025,Khushi,Book Shelf,Furniture,East,Amit,1,7000,7000,5200,1800,UPI,Delivered
+ORD0338,06/01/2025,Ritika,Book Shelf,Furniture,South,Rahul,1,7000,7000,5200,1800,Cash,Cancelled
+ORD0423,07/01/2025,Aryan,Mouse,Electronics,West,Amit,10,700,7000,450,2500,Cash,Pending
+ORD0447,25/07/2025,Rahul,Jacket,Clothing,South,Pooja,2,3500,7000,2400,2200,Cash,Delivered
+ORD0463,05/04/2025,Arjun,Book Shelf,Furniture,East,Pooja,1,7000,7000,5200,1800,Cash,Delivered
+ORD0192,22/06/2025,Naina,Hoodie,Clothing,East,Anjali,3,2200,6600,1400,2400,UPI,Delivered
+ORD0407,07/11/2025,Vihaan,Hoodie,Clothing,West,Anjali,3,2200,6600,1400,2400,Cash,Delivered
+ORD0424,08/01/2025,Khushi,Hoodie,Clothing,South,Karan,3,2200,6600,1400,2400,Credit Card,Delivered
+ORD0069,31/07/2025,Mohit,Wheat Flour,Grocery,East,Neha,8,800,6400,600,1600,Cash,Pending
+ORD0001,25/08/2025,Aisha,T-Shirt,Clothing,East,Sneha,7,900,6300,500,2800,Credit Card,Delivered
+ORD0191,19/02/2025,Pooja,Mouse,Electronics,East,Amit,9,700,6300,450,2250,UPI,Delivered
+ORD0220,11/05/2025,Arjun,T-Shirt,Clothing,North,Neha,7,900,6300,500,2800,Credit Card,Delivered
+ORD0267,23/05/2025,Mohit,Mouse,Electronics,South,Pooja,9,700,6300,450,2250,Cash,Delivered
+ORD0293,30/11/2025,Dev,T-Shirt,Clothing,South,Amit,7,900,6300,500,2800,Credit Card,Cancelled
+ORD0310,13/07/2025,Karan,Mouse,Electronics,South,Arjun,9,700,6300,450,2250,Cash,Delivered
+ORD0340,26/10/2025,Khushi,Mouse,Electronics,South,Arjun,9,700,6300,450,2250,Cash,Delivered
+ORD0411,19/03/2025,Akash,T-Shirt,Clothing,East,Anjali,7,900,6300,500,2800,Cash,Delivered
+ORD0036,08/10/2025,Krish,Sugar,Grocery,North,Sneha,10,600,6000,420,1800,Credit Card,Delivered
+ORD0132,19/12/2025,Neha,Sugar,Grocery,East,Rohit,10,600,6000,420,1800,Credit Card,Delivered
+ORD0356,21/12/2025,Priya,Rice Bag,Grocery,South,Priya,5,1200,6000,900,1500,Credit Card,Delivered
+ORD0472,12/02/2025,Ritika,Keyboard,Electronics,North,Rohit,4,1500,6000,1000,2000,Cash,Pending
+ORD0155,27/06/2025,Yash,Mouse,Electronics,North,Pooja,8,700,5600,450,2000,Credit Card,Delivered
+ORD0185,28/09/2025,Nikhil,Wheat Flour,Grocery,South,Amit,7,800,5600,600,1400,UPI,Delivered
+ORD0257,22/07/2025,Diya,Shoes,Clothing,East,Neha,2,2800,5600,1800,2000,Credit Card,Delivered
+ORD0316,30/04/2025,Manav,Mouse,Electronics,West,Arjun,8,700,5600,450,2000,Cash,Delivered
+ORD0319,23/05/2025,Pooja,Wheat Flour,Grocery,East,Sneha,7,800,5600,600,1400,UPI,Delivered
+ORD0388,08/11/2025,Kavya,Shoes,Clothing,West,Rohit,2,2800,5600,1800,2000,Credit Card,Delivered
+ORD0480,21/11/2025,Rohit,Wheat Flour,Grocery,South,Priya,7,800,5600,600,1400,UPI,Delivered
+ORD0003,03/05/2025,Muskan,Jeans,Clothing,North,Amit,3,1800,5400,1100,2100,Credit Card,Delivered
+ORD0127,30/04/2025,Sneha,T-Shirt,Clothing,East,Neha,6,900,5400,500,2400,UPI,Cancelled
+ORD0129,20/04/2025,Anjali,T-Shirt,Clothing,West,Rohit,6,900,5400,500,2400,Credit Card,Delivered
+ORD0162,16/07/2025,Meera,Cooking Oil,Grocery,West,Rohit,3,1800,5400,1400,1200,UPI,Delivered
+ORD0188,14/11/2025,Aisha,Sugar,Grocery,East,Sneha,9,600,5400,420,1620,Cash,Delivered
+ORD0245,02/04/2025,Akash,T-Shirt,Clothing,West,Amit,6,900,5400,500,2400,UPI,Delivered
+ORD0288,11/12/2025,Diya,Cooking Oil,Grocery,East,Rohit,3,1800,5400,1400,1200,Credit Card,Pending
+ORD0355,08/06/2025,Kavya,T-Shirt,Clothing,East,Arjun,6,900,5400,500,2400,Cash,Delivered
+ORD0450,04/06/2025,Palak,Cooking Oil,Grocery,West,Pooja,3,1800,5400,1400,1200,Credit Card,Pending
+ORD0478,18/01/2025,Saurabh,Cooking Oil,Grocery,South,Neha,3,1800,5400,1400,1200,UPI,Delivered
+ORD0102,28/12/2025,Saurabh,Tea Pack,Grocery,North,Karan,10,500,5000,350,1500,Cash,Delivered
+ORD0208,22/09/2025,Khushi,Tea Pack,Grocery,East,Anjali,10,500,5000,350,1500,Credit Card,Pending
+ORD0383,23/06/2025,Pooja,Tea Pack,Grocery,South,Priya,10,500,5000,350,1500,Cash,Delivered
+ORD0019,01/07/2025,Riya,Rice Bag,Grocery,South,Priya,4,1200,4800,900,1200,Cash,Delivered
+ORD0118,23/06/2025,Sanjana,Wheat Flour,Grocery,East,Karan,6,800,4800,600,1200,Cash,Pending
+ORD0224,25/04/2025,Ananya,Rice Bag,Grocery,North,Sneha,4,1200,4800,900,1200,Cash,Delivered
+ORD0259,10/09/2025,Saurabh,Wheat Flour,Grocery,West,Priya,6,800,4800,600,1200,Credit Card,Delivered
+ORD0278,14/12/2025,Aryan,Sugar,Grocery,East,Amit,8,600,4800,420,1440,UPI,Cancelled
+ORD0280,02/06/2025,Sneha,Wheat Flour,Grocery,East,Karan,6,800,4800,600,1200,UPI,Delivered
+ORD0460,25/06/2025,Arjun,Sugar,Grocery,North,Arjun,8,600,4800,420,1440,Cash,Pending
+ORD0029,24/05/2025,Aditi,Keyboard,Electronics,North,Karan,3,1500,4500,1000,1500,Cash,Delivered
+ORD0059,22/10/2025,Rahul,T-Shirt,Clothing,North,Karan,5,900,4500,500,2000,Credit Card,Delivered
+ORD0105,17/09/2025,Diya,Keyboard,Electronics,South,Neha,3,1500,4500,1000,1500,Cash,Delivered
+ORD0186,11/10/2025,Karan,Keyboard,Electronics,East,Priya,3,1500,4500,1000,1500,Cash,Delivered
+ORD0212,19/10/2025,Shreya,T-Shirt,Clothing,North,Priya,5,900,4500,500,2000,UPI,Delivered
+ORD0231,26/10/2025,Aditi,T-Shirt,Clothing,West,Sneha,5,900,4500,500,2000,UPI,Delivered
+ORD0234,05/10/2025,Rahul,Tea Pack,Grocery,South,Neha,9,500,4500,350,1350,Credit Card,Delivered
+ORD0294,08/02/2025,Reyansh,T-Shirt,Clothing,West,Pooja,5,900,4500,500,2000,UPI,Delivered
+ORD0324,09/12/2025,Riya,T-Shirt,Clothing,North,Rohit,5,900,4500,500,2000,Cash,Delivered
+ORD0437,01/03/2025,Ritika,Keyboard,Electronics,South,Anjali,3,1500,4500,1000,1500,Cash,Delivered
+ORD0449,17/05/2025,Harsh,Tea Pack,Grocery,East,Pooja,9,500,4500,350,1350,UPI,Delivered
+ORD0276,27/11/2025,Vihaan,Hoodie,Clothing,North,Karan,2,2200,4400,1400,1600,Cash,Delivered
+ORD0010,16/05/2025,Reyansh,Sugar,Grocery,North,Anjali,7,600,4200,420,1260,UPI,Delivered
+ORD0072,19/10/2025,Aditya,Mouse,Electronics,East,Karan,6,700,4200,450,1500,Cash,Delivered
+ORD0096,15/09/2025,Nikita,Sugar,Grocery,North,Karan,7,600,4200,420,1260,UPI,Delivered
+ORD0106,16/12/2025,Rohit,Sugar,Grocery,East,Neha,7,600,4200,420,1260,Credit Card,Pending
+ORD0164,07/09/2025,Neha,Sugar,Grocery,East,Priya,7,600,4200,420,1260,UPI,Cancelled
+ORD0235,07/12/2025,Harsh,Sugar,Grocery,East,Priya,7,600,4200,420,1260,Cash,Delivered
+ORD0400,22/07/2025,Riya,Sugar,Grocery,North,Arjun,7,600,4200,420,1260,Cash,Pending
+ORD0403,01/10/2025,Shreya,Sugar,Grocery,South,Rohit,7,600,4200,420,1260,Credit Card,Delivered
+ORD0034,01/02/2025,Mohit,Wheat Flour,Grocery,West,Pooja,5,800,4000,600,1000,Cash,Pending
+ORD0158,03/11/2025,Karan,Tea Pack,Grocery,North,Rahul,8,500,4000,350,1200,Cash,Delivered
+ORD0296,21/02/2025,Aman,Tea Pack,Grocery,East,Pooja,8,500,4000,350,1200,UPI,Pending
+ORD0366,12/06/2025,Diya,Wheat Flour,Grocery,West,Arjun,5,800,4000,600,1000,UPI,Delivered
+ORD0005,14/09/2025,Dev,Cooking Oil,Grocery,West,Amit,2,1800,3600,1400,800,UPI,Delivered
+ORD0011,23/01/2025,Palak,Sugar,Grocery,West,Anjali,6,600,3600,420,1080,UPI,Delivered
+ORD0037,25/03/2025,Aditi,Jeans,Clothing,South,Rahul,2,1800,3600,1100,1400,Credit Card,Delivered
+ORD0143,21/04/2025,Harsh,Rice Bag,Grocery,North,Pooja,3,1200,3600,900,900,Credit Card,Delivered
+ORD0167,08/11/2025,Kavya,Jeans,Clothing,East,Priya,2,1800,3600,1100,1400,UPI,Cancelled
+ORD0182,13/03/2025,Aisha,Cooking Oil,Grocery,East,Pooja,2,1800,3600,1400,800,Cash,Delivered
+ORD0194,09/05/2025,Rohan,Sugar,Grocery,West,Pooja,6,600,3600,420,1080,Cash,Delivered
+ORD0197,22/03/2025,Aditi,Cooking Oil,Grocery,West,Priya,2,1800,3600,1400,800,Cash,Delivered
+ORD0206,02/10/2025,Naina,Rice Bag,Grocery,East,Priya,3,1200,3600,900,900,UPI,Delivered
+ORD0243,13/06/2025,Dev,T-Shirt,Clothing,East,Karan,4,900,3600,500,1600,Credit Card,Delivered
+ORD0323,18/01/2025,Simran,Cooking Oil,Grocery,North,Rahul,2,1800,3600,1400,800,UPI,Delivered
+ORD0333,06/07/2025,Shreya,Cooking Oil,Grocery,South,Rahul,2,1800,3600,1400,800,UPI,Pending
+ORD0397,15/09/2025,Avni,T-Shirt,Clothing,East,Anjali,4,900,3600,500,1600,UPI,Delivered
+ORD0439,29/06/2025,Aarav,Sugar,Grocery,East,Rahul,6,600,3600,420,1080,Cash,Delivered
+ORD0451,27/10/2025,Yash,Cooking Oil,Grocery,East,Karan,2,1800,3600,1400,800,Cash,Delivered
+ORD0452,06/09/2025,Pooja,Sugar,Grocery,North,Rohit,6,600,3600,420,1080,Credit Card,Delivered
+ORD0456,01/10/2025,Saurabh,Sugar,Grocery,North,Neha,6,600,3600,420,1080,Credit Card,Pending
+ORD0121,11/06/2025,Rohan,Tea Pack,Grocery,South,Neha,7,500,3500,350,1050,UPI,Delivered
+ORD0163,20/01/2025,Neha,Mouse,Electronics,West,Sneha,5,700,3500,450,1250,Cash,Delivered
+ORD0332,15/02/2025,Dev,Tea Pack,Grocery,South,Sneha,7,500,3500,350,1050,Credit Card,Delivered
+ORD0479,27/09/2025,Nikhil,Mouse,Electronics,West,Anjali,5,700,3500,450,1250,Credit Card,Delivered
+ORD0130,11/12/2025,Naina,Wheat Flour,Grocery,East,Sneha,4,800,3200,600,800,Credit Card,Delivered
+ORD0297,29/06/2025,Sanjana,Wheat Flour,Grocery,West,Sneha,4,800,3200,600,800,UPI,Delivered
+ORD0336,19/06/2025,Khushi,Wheat Flour,Grocery,East,Neha,4,800,3200,600,800,UPI,Delivered
+ORD0009,17/07/2025,Saurabh,Tea Pack,Grocery,South,Priya,6,500,3000,350,900,Credit Card,Pending
+ORD0016,24/03/2025,Sneha,Tea Pack,Grocery,West,Neha,6,500,3000,350,900,Credit Card,Delivered
+ORD0187,26/06/2025,Vivaan,Keyboard,Electronics,East,Rahul,2,1500,3000,1000,1000,Cash,Delivered
+ORD0279,24/06/2025,Isha,Tea Pack,Grocery,South,Arjun,6,500,3000,350,900,Credit Card,Pending
+ORD0314,23/07/2025,Mohit,Sugar,Grocery,East,Rohit,5,600,3000,420,900,Cash,Delivered
+ORD0337,20/11/2025,Aarav,Keyboard,Electronics,West,Anjali,2,1500,3000,1000,1000,Credit Card,Delivered
+ORD0379,06/12/2025,Ritika,Keyboard,Electronics,West,Sneha,2,1500,3000,1000,1000,Credit Card,Delivered
+ORD0473,07/07/2025,Palak,Keyboard,Electronics,West,Priya,2,1500,3000,1000,1000,UPI,Delivered
+ORD0004,05/03/2025,Ananya,Mouse,Electronics,West,Karan,4,700,2800,450,1000,UPI,Cancelled
+ORD0076,17/01/2025,Simran,Shoes,Clothing,East,Priya,1,2800,2800,1800,1000,UPI,Delivered
+ORD0195,02/11/2025,Reyansh,Mouse,Electronics,East,Amit,4,700,2800,450,1000,Cash,Cancelled
+ORD0198,04/08/2025,Priya,Mouse,Electronics,North,Anjali,4,700,2800,450,1000,Credit Card,Delivered
+ORD0263,27/10/2025,Manav,Mouse,Electronics,North,Amit,4,700,2800,450,1000,Credit Card,Delivered
+ORD0484,06/08/2025,Shruti,Mouse,Electronics,West,Amit,4,700,2800,450,1000,Credit Card,Delivered
+ORD0494,12/12/2025,Aditi,Mouse,Electronics,North,Priya,4,700,2800,450,1000,Credit Card,Pending
+ORD0057,16/06/2025,Nikita,T-Shirt,Clothing,East,Rahul,3,900,2700,500,1200,Cash,Delivered
+ORD0161,20/05/2025,Aditya,T-Shirt,Clothing,East,Arjun,3,900,2700,500,1200,Credit Card,Delivered
+ORD0085,02/11/2025,Priya,Tea Pack,Grocery,East,Amit,5,500,2500,350,750,Credit Card,Delivered
+ORD0252,23/08/2025,Ananya,Tea Pack,Grocery,East,Anjali,5,500,2500,350,750,Cash,Pending
+ORD0313,24/07/2025,Harsh,Tea Pack,Grocery,South,Arjun,5,500,2500,350,750,UPI,Delivered
+ORD0453,24/01/2025,Shreya,Tea Pack,Grocery,South,Amit,5,500,2500,350,750,UPI,Delivered
+ORD0006,17/11/2025,Nikhil,Sugar,Grocery,North,Karan,4,600,2400,420,720,Cash,Delivered
+ORD0047,11/03/2025,Aditya,Rice Bag,Grocery,East,Rahul,2,1200,2400,900,600,UPI,Cancelled
+ORD0354,08/03/2025,Muskan,Sugar,Grocery,North,Karan,4,600,2400,420,720,Credit Card,Delivered
+ORD0023,20/02/2025,Palak,Hoodie,Clothing,West,Pooja,1,2200,2200,1400,800,UPI,Pending
+ORD0060,29/11/2025,Diya,Hoodie,Clothing,North,Pooja,1,2200,2200,1400,800,Credit Card,Delivered
+ORD0020,10/05/2025,Palak,Mouse,Electronics,South,Neha,3,700,2100,450,750,UPI,Delivered
+ORD0176,31/03/2025,Simran,Mouse,Electronics,West,Karan,3,700,2100,450,750,UPI,Delivered
+ORD0210,06/02/2025,Akash,Mouse,Electronics,East,Amit,3,700,2100,450,750,Credit Card,Delivered
+ORD0238,10/01/2025,Aman,Mouse,Electronics,East,Rohit,3,700,2100,450,750,UPI,Delivered
+ORD0241,08/03/2025,Dev,Mouse,Electronics,North,Priya,3,700,2100,450,750,Credit Card,Cancelled
+ORD0286,03/09/2025,Harsh,Mouse,Electronics,East,Sneha,3,700,2100,450,750,Cash,Delivered
+ORD0189,09/01/2025,Tanya,Tea Pack,Grocery,North,Neha,4,500,2000,350,600,Credit Card,Delivered
+ORD0292,15/04/2025,Ananya,Tea Pack,Grocery,South,Karan,4,500,2000,350,600,Cash,Delivered
+ORD0299,16/07/2025,Siddharth,Tea Pack,Grocery,North,Anjali,4,500,2000,350,600,UPI,Delivered
+ORD0496,15/03/2025,Kavya,Tea Pack,Grocery,East,Pooja,4,500,2000,350,600,Credit Card,Delivered
+ORD0064,09/06/2025,Aisha,T-Shirt,Clothing,West,Pooja,2,900,1800,500,800,Cash,Delivered
+ORD0236,23/12/2025,Sneha,Jeans,Clothing,East,Karan,1,1800,1800,1100,700,UPI,Delivered
+ORD0381,03/08/2025,Reyansh,Sugar,Grocery,North,Rahul,3,600,1800,420,540,Cash,Delivered
+ORD0412,17/02/2025,Tanya,T-Shirt,Clothing,North,Rahul,2,900,1800,500,800,Cash,Delivered
+ORD0427,08/02/2025,Kavya,T-Shirt,Clothing,East,Sneha,2,900,1800,500,800,UPI,Pending
+ORD0483,17/06/2025,Shreya,Cooking Oil,Grocery,West,Pooja,1,1800,1800,1400,400,UPI,Delivered
+ORD0043,04/12/2025,Arjun,Wheat Flour,Grocery,North,Karan,2,800,1600,600,400,Cash,Delivered
+ORD0298,26/12/2025,Manav,Wheat Flour,Grocery,North,Karan,2,800,1600,600,400,Credit Card,Pending
+ORD0045,18/11/2025,Rohit,Tea Pack,Grocery,North,Pooja,3,500,1500,350,450,Credit Card,Pending
+ORD0183,11/04/2025,Sanjana,Tea Pack,Grocery,North,Sneha,3,500,1500,350,450,Cash,Delivered
+ORD0215,26/07/2025,Akash,Tea Pack,Grocery,South,Pooja,3,500,1500,350,450,Credit Card,Pending
+ORD0258,16/03/2025,Aisha,Tea Pack,Grocery,South,Anjali,3,500,1500,350,450,Cash,Delivered
+ORD0326,10/02/2025,Tanya,Keyboard,Electronics,East,Anjali,1,1500,1500,1000,500,Credit Card,Delivered
+ORD0376,21/06/2025,Vivaan,Keyboard,Electronics,South,Neha,1,1500,1500,1000,500,UPI,Delivered
+ORD0201,06/09/2025,Isha,Mouse,Electronics,North,Arjun,2,700,1400,450,500,Credit Card,Pending
+ORD0485,09/01/2025,Aman,Mouse,Electronics,North,Anjali,2,700,1400,450,500,UPI,Delivered
+ORD0075,25/05/2025,Palak,Rice Bag,Grocery,North,Sneha,1,1200,1200,900,300,Cash,Delivered
+ORD0131,31/01/2025,Akash,Sugar,Grocery,North,Arjun,2,600,1200,420,360,Credit Card,Delivered
+ORD0170,04/10/2025,Krish,Rice Bag,Grocery,East,Neha,1,1200,1200,900,300,Cash,Pending
+ORD0221,20/05/2025,Vihaan,Sugar,Grocery,North,Rohit,2,600,1200,420,360,UPI,Pending
+ORD0454,27/10/2025,Naina,Rice Bag,Grocery,South,Neha,1,1200,1200,900,300,Cash,Delivered
+ORD0495,24/10/2025,Rahul,Rice Bag,Grocery,West,Arjun,1,1200,1200,900,300,Credit Card,Delivered
+ORD0133,19/09/2025,Abhishek,Tea Pack,Grocery,West,Rohit,2,500,1000,350,300,UPI,Delivered
+ORD0250,10/04/2025,Krish,Tea Pack,Grocery,South,Neha,2,500,1000,350,300,Cash,Delivered
+ORD0380,18/04/2025,Muskan,Tea Pack,Grocery,South,Amit,2,500,1000,350,300,Credit Card,Delivered
+ORD0408,28/09/2025,Akash,Tea Pack,Grocery,West,Sneha,2,500,1000,350,300,UPI,Delivered
+ORD0044,04/07/2025,Mohit,T-Shirt,Clothing,West,Karan,1,900,900,500,400,Cash,Delivered
+ORD0308,04/11/2025,Pranav,T-Shirt,Clothing,North,Rohit,1,900,900,500,400,Credit Card,Delivered
+ORD0122,06/01/2025,Saurabh,Wheat Flour,Grocery,South,Sneha,1,800,800,600,200,Cash,Delivered
+ORD0166,11/10/2025,Vivaan,Wheat Flour,Grocery,West,Karan,1,800,800,600,200,Cash,Pending
+ORD0228,18/07/2025,Rohit,Wheat Flour,Grocery,South,Karan,1,800,800,600,200,Cash,Pending
+ORD0260,12/09/2025,Sneha,Wheat Flour,Grocery,East,Sneha,1,800,800,600,200,UPI,Pending
+ORD0282,20/08/2025,Mohit,Wheat Flour,Grocery,West,Neha,1,800,800,600,200,UPI,Delivered
+ORD0368,23/12/2025,Naina,Wheat Flour,Grocery,West,Rohit,1,800,800,600,200,Credit Card,Delivered
+ORD0458,22/01/2025,Shreya,Wheat Flour,Grocery,West,Arjun,1,800,800,600,200,Cash,Delivered
+ORD0032,15/03/2025,Shruti,Mouse,Electronics,South,Amit,1,700,700,450,250,Credit Card,Pending
+ORD0090,13/12/2025,Abhishek,Mouse,Electronics,North,Karan,1,700,700,450,250,Cash,Delivered
+ORD0153,27/06/2025,Pranav,Mouse,Electronics,East,Priya,1,700,700,450,250,Credit Card,Delivered
+ORD0361,14/05/2025,Aryan,Mouse,Electronics,South,Amit,1,700,700,450,250,Cash,Delivered
+ORD0125,05/11/2025,Anjali,Sugar,Grocery,West,Pooja,1,600,600,420,180,Cash,Delivered
+ORD0389,22/03/2025,Palak,Tea Pack,Grocery,East,Sneha,1,500,500,350,150,Credit Card,Delivered
