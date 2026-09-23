@@ -32,7 +32,7 @@ Most sales dashboards stop at top-line revenue. This project goes several steps 
 ## Dashboard Preview
 
 <div align="center">
-<img src="sales_dashboard.png" width="800" alt="Sales Performance Dashboard Preview" />
+<img src="Sales_performance_dashboad/screenshot/salesdashboard.jpg" width="800" alt="Sales Performance Dashboard Preview" />
 </div>
 
 ---
